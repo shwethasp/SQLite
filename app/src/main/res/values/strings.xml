@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MySQLdb</string>
+    <string name="yes_button_msg">Confirm</string>
+    <string name="no_button_msg">Cancel</string>
+    <string name="pattern_alert_message">Modify texts </string>
+</resources>
